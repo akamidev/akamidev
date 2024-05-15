@@ -21,7 +21,7 @@ Je suis constamment à la recherche de nouvelles opportunités pour appliquer et
 
 ## :earth_africa: Langues
 - **Arabe** : Langue natale
-- **Français** : Confirmé
+- **Français** : Bilingue
 - **Anglais** : Débutant
 - **Espagnol** : Intermédiaire
 
