@@ -1,7 +1,7 @@
 # Mehdi Akami :man_technologist:
 
 ## :briefcase: À propos de Moi
-Bienvenue sur mon profil GitHub ! Je suis Mehdi Akami, actuellement en formation à PREPAVENIR FRANCONVILLE pour obtenir un Titre Pro Niveau 5 RNCP en Développement Web et Mobile. Après une riche expérience en tant que technicien itinérant, je me suis passionné pour le développement et la technologie, ce qui m'a conduit à entreprendre une reconversion professionnelle.
+Bienvenue sur mon profil GitHub ! Je suis Mehdi Akami, récemment diplômé en Master Genie Logiciel et TP niveau 5 en Développement Web et Mobile. je suis actuellement à la recherche de nouvelles opportunités professionnelles pour continuer à développer mes compétences dans le développement ou le test de logiciels. Passionné par la technologie et les solutions innovantes, je suis motivé à contribuer à des projets ambitieux et à relever de nouveaux défis.
 
 ## :computer: Compétences Techniques
 - **Frontend**: HTML5, CSS3, JavaScript
