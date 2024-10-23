@@ -1,12 +1,13 @@
 # Mehdi Akami :man_technologist:
 
 ## :briefcase: À propos de Moi
-Bienvenue sur mon profil GitHub ! Je suis Mehdi Akami, récemment diplômé en Master Genie Logiciel et TP niveau 5 en Développement Web et Mobile. je suis actuellement à la recherche de nouvelles opportunités professionnelles pour continuer à développer mes compétences dans le développement ou le test de logiciels. Passionné par la technologie et les solutions innovantes, je suis motivé à contribuer à des projets ambitieux et à relever de nouveaux défis.
+Bienvenue sur mon profil GitHub ! Je suis Mehdi Akami, diplômé en Master Genie Logiciel et TP niveau 5 en Développement Web et Mobile. je suis actuellement à la recherche de nouvelles opportunités professionnelles pour continuer à développer mes compétences dans le développement et  le test de logiciels. Passionné par la technologie et les solutions innovantes, je suis motivé à contribuer à des projets ambitieux et à relever de nouveaux défis.
 
 ## :computer: Compétences Techniques
+
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: PHP, Node.js, gestion des API
-- **Frameworks & Bases de données**: React, Symfony, MongoDB, MySQL
+- **Backend**: PHP, Node.js, gestion des API, Apex, Java, Python, Salesforce
+- **Frameworks & Bases de données**: React, Symfony, MongoDB, MySQL, SOQL
 - **UI/UX Design**: Création de maquettes interactives et wireframes sur Figma
 - **CMS**: WordPress (SEO, Elementor)
 
@@ -17,8 +18,9 @@ Bienvenue sur mon profil GitHub ! Je suis Mehdi Akami, récemment diplômé en M
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Apex](https://img.shields.io/badge/Salesforce%20Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
 
 ## :rocket: Projets et Collaborations
 Je suis constamment à la recherche de nouvelles opportunités pour appliquer et étendre mes compétences dans des projets réels et collaboratifs. N'hésitez pas à consulter mes projets ici sur GitHub et à collaborer.
