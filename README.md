@@ -15,6 +15,10 @@ Bienvenue sur mon profil GitHub ! Je suis Mehdi Akami, récemment diplômé en M
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Apex](https://img.shields.io/badge/Salesforce%20Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ## :rocket: Projets et Collaborations
 Je suis constamment à la recherche de nouvelles opportunités pour appliquer et étendre mes compétences dans des projets réels et collaboratifs. N'hésitez pas à consulter mes projets ici sur GitHub et à collaborer.
