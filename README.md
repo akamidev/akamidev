@@ -24,10 +24,11 @@ Bienvenue sur mon profil GitHub ! Je suis Mehdi Akami, récemment diplômé en M
 Je suis constamment à la recherche de nouvelles opportunités pour appliquer et étendre mes compétences dans des projets réels et collaboratifs. N'hésitez pas à consulter mes projets ici sur GitHub et à collaborer.
 
 ## :earth_africa: Langues
-- **Arabe** : Langue natale
-- **Français** : Bilingue
-- **Anglais** : Technique
+
+- **Anglais**  : Technique
+- **Arabe**    : Langue natale
 - **Espagnol** : Intermédiaire
+- **Français** : Bilingue
 
 ## :heart: Passions et Intérêts
 - Explorer de nouvelles technologies
