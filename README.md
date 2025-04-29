@@ -1,15 +1,24 @@
-# Mehdi Akami :man_technologist:
+# Mehdi Akami 👨‍💻
 
-## :briefcase: À propos de Moi
-Bienvenue sur mon profil GitHub ! Je suis Mehdi Akami, diplômé en Master Genie Logiciel et TP niveau 5 en Développement Web et Mobile. je suis actuellement à la recherche de nouvelles opportunités professionnelles pour continuer à développer mes compétences dans le développement et  le test de logiciels. Passionné par la technologie et les solutions innovantes, je suis motivé à contribuer à des projets ambitieux et à relever de nouveaux défis.
+## 💼 À propos de moi
 
-## :computer: Compétences Techniques
+Bienvenue sur mon profil GitHub !
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: PHP, Node.js, gestion des API, Apex, Java, Python, Salesforce
-- **Frameworks & Bases de données**: React, Symfony, MongoDB, MySQL, SOQL
-- **UI/UX Design**: Création de maquettes interactives et wireframes sur Figma
-- **CMS**: WordPress (SEO, Elementor)
+Je suis Mehdi Akami, ingénieur diplômé en Génie Logiciel (Master) et certifié TP niveau 5 en Développement Web & Mobile.  
+🔍 Actuellement freelance et à l’écoute d’opportunités, j’interviens sur des projets de **développement web, design UX/UI, automatisation de tests (QA)** et solutions digitales sur-mesure.
+
+✨ Passionné par les technologies innovantes, j’aime créer des expériences fluides, performantes et utiles. Curieux et autonome, je travaille avec rigueur pour livrer des produits **fonctionnels, testés et orientés utilisateur**.
+
+---
+
+## 🧰 Compétences Techniques
+
+- **Frontend** : HTML5, CSS3, JavaScript  
+- **Backend** : PHP, Node.js, Apex, Java, Python, Salesforce  
+- **Frameworks & BDD** : React, Symfony, MongoDB, MySQL, SOQL  
+- **QA / Automation** : Cypress, Selenium, tests fonctionnels & plans de test  
+- **UI/UX Design** : Prototypage Figma, création de wireframes  
+- **CMS** : WordPress (SEO, Elementor)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,28 +30,47 @@ Bienvenue sur mon profil GitHub ! Je suis Mehdi Akami, diplômé en Master Genie
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
+---
 
-## :rocket: Projets et Collaborations
-Je suis constamment à la recherche de nouvelles opportunités pour appliquer et étendre mes compétences dans des projets réels et collaboratifs. N'hésitez pas à consulter mes projets ici sur GitHub et à collaborer.
+## 🚀 Projets & Collaborations
 
-## :earth_africa: Langues
+Je travaille actuellement sur :
+- 🌐 Des sites web vitrines & e-commerce performants
+- 🧪 Des projets d’automatisation de tests via Cypress
+- 🎨 Des maquettes UX modernes & responsives
+- 📞 Des solutions de prospection B2B et prise de RDV digitalisée
 
-- **Anglais**  : Technique
-- **Arabe**    : Langue natale
-- **Espagnol** : Intermédiaire
-- **Français** : Bilingue
+📂 Consultez mes repositories ci-dessous ou contactez-moi pour discuter de vos projets !
 
-## :heart: Passions et Intérêts
-- Explorer de nouvelles technologies
-- Voyager
-- Bricoler
-- Pratique sportive
-- Engagements bénévoles avec la Croix Rouge Française
+---
 
-## :email: Contactez-Moi
-Pour toute collaboration, question ou simplement pour dire bonjour, n'hésitez pas à me joindre :
-- **Email** : [akamimehdi.dev@gmail.com](mailto:akamimehdi.dev@gmail.com)
-- **LinkedIn** : [akami-mehdi](https://www.linkedin.com/in/akami-mehdi/)
+## 🌍 Langues
+
+- 🇫🇷 **Français** : Bilingue  
+- 🇲🇦 **Arabe** : Langue maternelle  
+- 🇬🇧 **Anglais** : Technique / Professionnel  
+- 🇪🇸 **Espagnol** : Intermédiaire
+
+---
+
+## ❤️ Centres d’intérêt
+
+- Nouvelles technologies & IA générative
+- Voyages & découvertes culturelles
+- Bricolage & création DIY
+- Pratique du sport en plein air
+- Engagement bénévole (Croix Rouge Française)
+
+---
+
+## 📫 Contact
+
+Pour toute collaboration ou mission :
+
+- **Email** : [akamimehdi.dev@gmail.com](mailto:akamimehdi.dev@gmail.com)  
+- **LinkedIn** : [akami-mehdi](https://www.linkedin.com/in/akami-mehdi/)  
 - **Portfolio** : [akamimehdi.netlify.app](https://akamimehdi.netlify.app/)
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akamidev&show_icons=true)
