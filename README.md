@@ -40,7 +40,7 @@ Je travaille actuellement sur :
 - 🎨 Des maquettes UX modernes & responsives
 - 📞 Des solutions de prospection B2B et prise de RDV digitalisée
 
-📂 Consultez mes repositories ci-dessous ou contactez-moi pour discuter de vos projets !
+👉 🔗 [Voir mes projets GitHub](https://github.com/akamidev?tab=repositories)
 
 ---
 
